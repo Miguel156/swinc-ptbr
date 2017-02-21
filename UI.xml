@@ -1813,11 +1813,27 @@ You can always print new copies in the "Your Releases" window.</Item>
 		<Item Name="AskPrintingOption">Ask about printing on release</Item>
 		<Item Name="SteamWorkshopNotePrompt">Please write briefly what has changed</Item>
 		<Item Name="Change notes">Change notes</Item>
+	</Alpha9.2>
+	<Alpha9.3>
 		<Item Name="NoPrintersWarning">You do not own any product printers, are you sure you want to start a printing job?
 You can order copies instantly for {0} per copy by clicking the "Order copies" button</Item>
 		<Item Name="LostSalesPopup">{0} does not meet demand and you are losing sales. You need to order more physical copies of {0} or print your own</Item>
 		<Item Name="FurnitureReplacementBlocked">Not all furniture was replaced as it was blocked by something else</Item>
 		<Item Name="No release date">No release date</Item>
-	</Alpha9.2>
+		<Item Name="MainFinanceDesc">Get an overview of your company's expenditure and income</Item>
+		<Item Name="Bills">Bills</Item>
+		<Item Name="Rent">Rent</Item>
+		<Item Name="Food">Food</Item>
+		<Item Name="Internet">Internet</Item>
+		<Item Name="MonthsAgo">{0} months ago</Item>
+		<Item Name="Sheet">Sheet</Item>
+		<Item Name="NextPrintCountdown">Next print in {0} minutes</Item>
+		<Item Name="Log">Log</Item>
+		<Item Name="Copy">Copy</Item>
+		<Item Name="IndoorError">This has to be placed indoors</Item>
+		<Item Name="OutdoorError">This has to be placed in outdoor areas</Item>
+		<Item Name="Background noise">Background noise</Item>
+		<Item Name="Neighbor rooms">Neighbor room noise</Item>
+	</Alpha9.3>
 </UI>
 
