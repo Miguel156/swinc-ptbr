@@ -56,11 +56,11 @@
 		<Item Name="HR">RH</Item>
 		<Item Name="Finance">Finanças</Item>
 		<Item Name="Marketplace">Mercado</Item>
-		<Item Name="MainDevSoft">Develop Software</Item>
+		<Item Name="MainDevSoft">Desenvolver Software</Item>
 		<Item Name="MainDevSoftDesc">Design and release your own software</Item>
 		<Item Name="MainPlayerRelease">Your releases</Item>
 		<Item Name="MainPlayerReleaseDesc">See a list of products you own</Item>
-		<Item Name="MainContract">Contract work</Item>
+		<Item Name="MainContract">Contrato de trabalho</Item>
 		<Item Name="MainContractDesc">Take on contract work. Developing software can get expensive, take on contract work to make some quick money on the side</Item>
 		<Item Name="MainServer">Servidores</Item>
 		<Item Name="MainServerDesc">Manage your servers and redelegate processes</Item>
@@ -76,11 +76,11 @@
 		<Item Name="MainInsuranceDesc">Put money in your insurance account to attract better employees and make money off the interest</Item>
 		<Item Name="MainStock">Stocks</Item>
 		<Item Name="MainStockDesc">Buy and sell stocks, there is a lot of money to be made here</Item>
-		<Item Name="MainLoan">Loans</Item>
+		<Item Name="MainLoan">Empréstimos</Item>
 		<Item Name="MainLoanDesc">If you are running into problems, you might want to consider taking up a loan</Item>
-		<Item Name="MainRelease">All software</Item>
+		<Item Name="MainRelease">Todos os softwares</Item>
 		<Item Name="MainReleaseDesc">Review a list of all software ever released</Item>
-		<Item Name="MainCompany">All companies</Item>
+		<Item Name="MainCompany">Todas as empresas</Item>
 		<Item Name="MainCompanyDesc">Inspect your competitors</Item>
 		<Item Name="MainNews">The Software Times</Item>
 		<Item Name="MainNewsDesc">Keep yourself updated on current events and product reviews</Item>
@@ -258,7 +258,7 @@
 		<Item Name="AwarenessAmount5">Popular</Item>
 	</DesignWindow>
 	<AutoWindow>
-		<Item Name="Project management">Project management</Item>
+		<Item Name="Project management">Gerenciamento de Projetos</Item>
 		<Item Name="ProjectManagementHint">To enable this, the team leader must have taken a course in project management through the education program</Item>
 		<Item Name="HR management">Gerenciamento de RH</Item>
 		<Item Name="HRManagementHint">To enable this, the team leader must have taken a course in HR management through the education program</Item>
@@ -863,7 +863,7 @@ Right click to deselect and cancel.</Item>
 		<Item Name="SheetHR">RH</Item>
 		<Item Name="SheetSalaries">Salário</Item>
 		<Item Name="SheetStaff">Staff</Item>
-		<Item Name="SheetHire">Contratação</Item>
+		<Item Name="SheetHire">Contratar</Item>
 		<Item Name="SheetEducation">Educação</Item>
 		<Item Name="SheetMaintenance">Manutenção</Item>
 		<Item Name="SheetConstruction">Construção</Item>
@@ -990,7 +990,7 @@ Products: {3}
 Original IPs: {4}
 Companies bought: {5}</Item>
 		<Item Name="Electricity">Electricity</Item>
-		<Item Name="Water">Water</Item>
+		<Item Name="Water">Água</Item>
 		<Item Name="Maintenance">Maintenance</Item>
 		<Item Name="HostingDeal">Hosting for {0}</Item>
 		<Item Name="IPDeal">{0} IP</Item>
@@ -1484,7 +1484,7 @@ Are you sure you want to continue?</Item>
 		<Item Name="Stubble">Stubble</Item>
 		<Item Name="Mens Blouse">Men's Blouse</Item>
 		<Item Name="Mens Pants">Men's Pants</Item>
-		<Item Name="Glasses">Glasses</Item>
+		<Item Name="Glasses">Oculos</Item>
 		<Item Name="Knot">Knot</Item>
 		<Item Name="Rouge">Rouge</Item>
 		<Item Name="Womens Blouse">Women's Blouse</Item>
@@ -1508,8 +1508,8 @@ Are you sure you want to continue?</Item>
 		<Item Name="Afro">Afro</Item>
 		<Item Name="Hire Cook">Hire cook</Item>
 		<Item Name="Cook">Cook</Item>
-		<Item Name="Preparing food">Preparing food</Item>
-		<Item Name="Serving food">Serving food</Item>
+		<Item Name="Preparing food">Preparando comida</Item>
+		<Item Name="Serving food">Servindo comida</Item>
 		<Item Name="Canteen">Canteen</Item>
 		<Item Name="NameChangeTitle">New name</Item>
 		<Item Name="NameChangePrompt">Employee name:</Item>
@@ -1744,11 +1744,11 @@ Set a budget to make sure you don't run out of money or leave it at 0 if you don
 You can always print new copies in the "Your Releases" window.</Item>
 		<Item Name="CourierParkError">There is nowhere for you courier to park. Please build parking spaces on your lot</Item>
 		<Item Name="Start printing">Start printing</Item>
-		<Item Name="Print">Print</Item>
-		<Item Name="Hire courier">Hire courier</Item>
-		<Item Name="Courier">Courier</Item>
-		<Item Name="Product">Product</Item>
-		<Item Name="Per month">Per month</Item>
+		<Item Name="Print">Imprimir</Item>
+		<Item Name="Hire courier">Contratar mensageiro</Item>
+		<Item Name="Courier">Mensageiro</Item>
+		<Item Name="Product">Produto</Item>
+		<Item Name="Per month">Por mês</Item>
 		<Item Name="Deadline">Deadline</Item>
 		<Item Name="Goal">Goal</Item>
 		<Item Name="Product print orders">Product print orders</Item>
@@ -1768,9 +1768,9 @@ You can always print new copies in the "Your Releases" window.</Item>
 		<Item Name="Income per Mbps per month">Income per Mbps per month</Item>
 		<Item Name="Current bandwidth usage">Current bandwidth usage</Item>
 		<Item Name="Maximum bandwidth usage">Maximum bandwidth usage</Item>
-		<Item Name="Per day">Per day</Item>
-		<Item Name="Per copy">Per copy</Item>
-		<Item Name="Expires">Expires</Item>
+		<Item Name="Per day">Por dia</Item>
+		<Item Name="Per copy">Por cópia</Item>
+		<Item Name="Expires">Expira</Item>
 		<Item Name="NotEnoughPallets">Your printers are getting backed up, build more pallets to unload them</Item>
 		<Item Name="PrintDealFail">You failed to print the last {0} copies for {1} costing you a total of {2} at market value</Item>
 		<Item Name="OnlineStoreServerError">You need a server to open your own digital distribution platform</Item>
@@ -1780,9 +1780,9 @@ You can always print new copies in the "Your Releases" window.</Item>
 		<Item Name="Close digital distribution platform">Close digital distribution platform</Item>
 		<Item Name="BetaPrintError">You can't start printing copies until you reach the beta phase</Item>
 		<Item Name="PlayerIPPrintError">You can only print copies of IP you own</Item>
-		<Item Name="PricePerCopy">{0} per copy</Item>
-		<Item Name="CopyPerMonth">{0} copies per month</Item>
-		<Item Name="Reason">Reason</Item>
+		<Item Name="PricePerCopy">{0} por cópia</Item>
+		<Item Name="CopyPerMonth">{0} cópias por mês</Item>
+		<Item Name="Reason">Razão</Item>
 		<Item Name="Terminations">Terminations</Item>
 		<Item Name="EmployeeCount">{0} employees</Item>
 		<Item Name="SickNotifyPlural">{0} have called in sick</Item>
@@ -1809,7 +1809,7 @@ You can always print new copies in the "Your Releases" window.</Item>
 	<Alpha9.2>
 		<Item Name="Overall score">Overall score</Item>
 		<Item Name="Review accuracy">Review accuracy</Item>
-		<Item Name="Printing">Printing</Item>
+		<Item Name="Printing">Impressão</Item>
 		<Item Name="AskPrintingOption">Ask about printing on release</Item>
 		<Item Name="SteamWorkshopNotePrompt">Please write briefly what has changed</Item>
 		<Item Name="Change notes">Change notes</Item>
@@ -1821,15 +1821,15 @@ You can order copies instantly for {0} per copy by clicking the "Order copies" b
 		<Item Name="FurnitureReplacementBlocked">Not all furniture was replaced as it was blocked by something else</Item>
 		<Item Name="No release date">No release date</Item>
 		<Item Name="MainFinanceDesc">Get an overview of your company's expenditure and income</Item>
-		<Item Name="Bills">Bills</Item>
-		<Item Name="Rent">Rent</Item>
-		<Item Name="Food">Food</Item>
+		<Item Name="Bills">Notas</Item>
+		<Item Name="Rent">Aluguel</Item>
+		<Item Name="Food">Comida</Item>
 		<Item Name="Internet">Internet</Item>
-		<Item Name="MonthsAgo">{0} months ago</Item>
-		<Item Name="Sheet">Sheet</Item>
+		<Item Name="MonthsAgo">{0} meses atrás</Item>
+		<Item Name="Sheet">Folha</Item>
 		<Item Name="NextPrintCountdown">Next print in {0} minutes</Item>
 		<Item Name="Log">Log</Item>
-		<Item Name="Copy">Copy</Item>
+		<Item Name="Copy">Cópia</Item>
 		<Item Name="IndoorError">This has to be placed indoors</Item>
 		<Item Name="OutdoorError">This has to be placed in outdoor areas</Item>
 		<Item Name="Background noise">Background noise</Item>
