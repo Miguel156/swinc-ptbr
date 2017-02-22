@@ -85,10 +85,10 @@ Now, let's exit Build mode.</Message>
 Contracts have an upfront payment you will receive for accepting the work, and a bigger payment for completing it. There will be big penalties for not finishing the contract and any unfixed bugs. Breaking the quality or time agreement will result in a lower payout.
 
 Browse the contracts now and accept one you think sounds fair.</Message>
-	<Message id="CUSTOMIZATION1">Welcome to the customization screen. Press "Continue" to advance the tutorial or "Cancel" to exit.</Message>
-	<Message id="CUSTOMIZATION2">Begin by picking a name for your company.</Message>
-	<Message id="CUSTOMIZATION3">Then pick a name for your founder in the game.</Message>
-	<Message id="CUSTOMIZATION4">And a gender.</Message>
+	<Message id="CUSTOMIZATION1">Bem vindo a tela de customização. Pressione "Continuar" para avançar o tutorial ou "Cancelar" para sair.</Message>
+	<Message id="CUSTOMIZATION2">Comece escolhendo um nome para sua empresa.</Message>
+	<Message id="CUSTOMIZATION3">Em seguida, escolha um nome para o seu fundador no jogo.</Message>
+	<Message id="CUSTOMIZATION4">E um gênero.</Message>
 	<Message id="CUSTOMIZATION5">You can use these buttons to choose an aspect of your founder's appearance that you want to change.
 	
 You can change the shape of the face and eyebrows by clicking the first button, and the last button allows you to pick the colors of the skin, hair, accessories and clothes of your founder.</Message>
