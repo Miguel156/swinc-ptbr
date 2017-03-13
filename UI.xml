@@ -1834,6 +1834,75 @@ You can order copies instantly for {0} per copy by clicking the "Order copies" b
 		<Item Name="OutdoorError">This has to be placed in outdoor areas</Item>
 		<Item Name="Background noise">Background noise</Item>
 		<Item Name="Neighbor rooms">Neighbor room noise</Item>
+		<Item Name="Noise level">Noise level</Item>
+		<Item Name="Noise overlay">Noise overlay</Item>
+		<Item Name="NoiseOverlayDesc">Monitor sources of noise. Hover over rooms to view exactly how noise is dispersing</Item>
+		<Item Name="SupportWorkCancelWarning2">Cancelling support for a product with active users will anger them, unless all bugs have been fixed.
+Are you sure you want to continue?</Item>
+		<Item Name="Room size">Room size</Item>
+		<Item Name="AlphaPromoteConfirmation">Are you sure you want to promote out of the alpha phase?
+You can no longer improve the quality of the product once you leave alpha</Item>
+		<Item Name="Reviews">Reviews</Item>
+		<Item Name="ReleaseDateConfirmation">Are you sure you want to set the release date to {0}?
+You will have {1} to release the product</Item>
+		<Item Name="MonthPostfix">{0} month</Item>
+		<Item Name="YearPostfix">{0} year</Item>
+		<Item Name="DayPostfix">{0} day</Item>
+		<Item Name="MonthPostfixPlural">{0} months</Item>
+		<Item Name="YearPostfixPlural">{0} years</Item>
+		<Item Name="DayPostfixPlural">{0} days</Item>
+		<Item Name="SoftwareReviewHeader">Review of {0}</Item>
+		<Item Name="PressBuildReviewHeader">Beta review of {0}</Item>
+		<Item Name="PressReleaseReviewHeader">{0} announces {1}</Item>
+		<Item Name="ReviewReminder">A product has been reviewed.</Item>
+		<Item Name="PressBuildReviewReminder">A press build has been reviewed.</Item>
+		<Item Name="PressReleaseReviewReminder">A press release has been mentioned.</Item>
+		<Item Name="Printing capacity">Printing capacity</Item>
+		<Item Name="Toggle audio overlay">Toggle audio overlay</Item>
+		<Item Name="Toggle ceiling fixture">Toggle ceiling fixture</Item>
+		<Item Name="Ceiling fixture">Ceiling fixture</Item>
 	</Alpha9.3>
+	<Alpha9.5>
+		<Item Name="Today">Today</Item>
+		<Item Name="Recycle">Recycle</Item>
+		<Item Name="Plot expansion">Plot expansion</Item>
+		<Item Name="Digital store">Digital store</Item>
+		<Item Name="Copy order">Copy order</Item>
+		<Item Name="Store cut">Store cut</Item>
+		<Item Name="Hosting">Hosting</Item>
+		<Item Name="IntellectualPropertyAbbr">IP</Item>
+		<Item Name="On call">On call</Item>
+		<Item Name="Unlimited">Unlimited</Item>
+		<Item Name="Limit">Limit</Item>
+		<Item Name="Maximum copies">Maximum copies</Item>
+		<Item Name="LimitCopyPrompt">Please enter how many copies you would like to have in stock before the print job is suspended. -1 means unlimited.</Item>
+		<Item Name="PerBox">{0} per box</Item>
+		<Item Name="CourierPayment">{0} up front - {1} per box</Item>
+		<Item Name="Call courier">Call courier</Item>
+		<Item Name="FollowerChange">Losing {0}% followers per month</Item>
+		<Item Name="HypingInactiveStatus">Currently not losing followers</Item>
+		<Item Name="Master">Master</Item>
+		<Item Name="UI">UI</Item>
+		<Item Name="ProjectManagementProjectWarning">You need to assign an initial project design to your project management group, {0}, before they can begin work</Item>
+		<Item Name="PressReleaseNotReleased">You have an unreleased press release for this project, which will be cancelled if you release your product.
+Do you want to continue?</Item>
+		<Item Name="PressBuildNotReleased">You have an unreleased press build for this project, which will be cancelled if you release your product.
+Do you want to continue?</Item>
+		<Item Name="Reject">Reject</Item>
+		<Item Name="RejectConfirmation">Are you sure you want to reject these items?</Item>
+		<Item Name="TimeDiffLeft">{0} left</Item>
+		<Item Name="TimeDiffNotLeft">{0} overdue</Item>
+		<Item Name="Expected quality">Expected quality</Item>
+		<Item Name="Lines of code">Lines of code</Item>
+		<Item Name="Art amount">Art amount</Item>
+		<Item Name="Cancelled">Cancelled</Item>
+		<Item Name="Inadequate">Inadequate</Item>
+		<Item Name="Satisfactory">Satisfactory</Item>
+		<Item Name="Outstanding">Outstanding</Item>
+		<Item Name="Late">Late</Item>
+		<Item Name="Completion penalty">Unfinished penalty</Item>
+		<Item Name="Quality assesment">Quality assessment</Item>
+		<Item Name="ContractFinish2">Finished contract for a net worth of {0}, with {1} quality</Item>
+	</Alpha9.5>
 </UI>
 
